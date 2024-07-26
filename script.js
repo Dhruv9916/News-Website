@@ -1,3 +1,4 @@
+alert("Wait for some time News is fetching using API CALL")
 const API_KEY = "b839defc2fc14227bdc6b0ed63016ca5";
 const url = "https://newsapi.org/v2/everything?q=";
 
